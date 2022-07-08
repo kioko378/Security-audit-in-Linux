@@ -1,0 +1,2 @@
+echo "This is a Test case for an executable file in Linux" >>
+ls -l /etc
